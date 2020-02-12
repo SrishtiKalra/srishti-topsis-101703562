@@ -7,8 +7,8 @@ setup(
   description = 'for multiple criteria decision making',   # Give a short description about your library
   author = 'SRISHTI KALRA',                   # Type in your name
   author_email = 'srishti.1007.sk@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/SrishtiKalra/srishti-outlier-101703562',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/SrishtiKalra/srishti-outlier-101703562/archive/0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/SrishtiKalra/srishti-topsis-101703562',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/SrishtiKalra/srishti-topsis-101703562/archive/0.1.tar.gz',    # I explain this later on
   keywords = ['TOPSIS', 'PACKAGE', 'MULTI-CRITERIA'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
